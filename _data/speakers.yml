@@ -896,23 +896,11 @@
     - {name: "linkedin", link: "https://www.linkedin.com/in/serahrono/"}
     - {name: "twitter", link: "https://twitter.com/serahrono"}
 
-
-  
-
-
-
-
-    
-  
-      
-  
-      
-      
-   
-    
-  
-    
-    
-  
-
-  
+-
+  id: 778
+  name: "Amrita"
+  surname: "Goswami"
+  company: "Indian Institute of Technology, Kanpur"
+  thumbnailUrl: AmritaGoswami.jpeg
+  social:
+      - {name: "github", link: "https://github.com/amritagos"}
