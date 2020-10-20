@@ -1,4 +1,4 @@
-----
+---
 layout: post
 title: "What Will Constitute CarpentryCon @ Home Fireside Chat Discussions?" 
 date: 2020-08-24 09:00:00
